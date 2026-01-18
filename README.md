@@ -6,7 +6,7 @@ Analyze phishing emails, identify risk indicators, and provide prevention guidel
 - Email Header Analyzer: https://toolbox.googleapps.com/apps/messageheader/
 - MXToolbox Email Headers: https://mxtoolbox.com/EmailHeaders.aspx
 - Google Docs / MS Word for reporting
-- Browser (safe URL analysis only)
+- Virus Total: Url Analysis
 
 ## Analysis Approach
 1. Collected phishing email samples.
