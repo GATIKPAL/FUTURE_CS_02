@@ -1,0 +1,9 @@
+From: BANCO DO BRASIL <b098153@bbatendimento.lb>
+Return-Path: root@centos-s-1vcpu-1gb-35gb-intel-sfo3-02.localdomain
+Sender-IP: 159.223.196.222
+Received: from centos-s-1vcpu-1gb-35gb-intel-sfo3-02.localdomain
+Authentication-Results:
+ spf=fail
+ dkim=none
+ dmarc=fail
+

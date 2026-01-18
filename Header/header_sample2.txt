@@ -1,0 +1,8 @@
+From: Darty <info@service-mail.zalando-prive.fr>
+Return-Path: bounce@mailer.random-host.net
+Sender-IP: 185.203.119.47
+Received: from mailer.random-host.net
+Authentication-Results:
+ spf=softfail
+ dkim=fail
+ dmarc=fail
